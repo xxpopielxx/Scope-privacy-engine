@@ -30,8 +30,8 @@ This project was built for the Solana Privacy Hackathon 2026.
    ```
 3. **Configure Environment: Create a .env file in the root directory:**
   ```
-  HELIUS_API_KEY=your_api_key_here
-  QUICKNODE_RPC_URL=[https://api.mainnet.solana.com](https://api.mainnet.solana.com)
+     HELIUS_API_KEY=your_api_key_here
+     QUICKNODE_RPC_URL=[https://api.mainnet.solana.com](https://api.mainnet.solana.com)
    ```
 4. **Run the app:**
    ```bash
