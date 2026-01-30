@@ -21,7 +21,7 @@ This project was built for the Solana Privacy Hackathon 2026.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/xxpopielxx/Scope-privacy-engine.git](https://github.com/xxpopielxx/Scope-privacy-engine.git)
+   git clone https://github.com/xxpopielxx/Scope-privacy-engine.git
    cd Scope-privacy-engine
    ```
 2. **Clone the repository:**
@@ -29,9 +29,9 @@ This project was built for the Solana Privacy Hackathon 2026.
    npm install
    ```
 3. **Configure Environment: Create a .env file in the root directory:**
-  ```
-     HELIUS_API_KEY=your_api_key_here
-     QUICKNODE_RPC_URL=[https://api.mainnet.solana.com](https://api.mainnet.solana.com)
+   ```
+   HELIUS_API_KEY=your_api_key_here
+   QUICKNODE_RPC_URL=https://api.mainnet.solana.com
    ```
 4. **Run the app:**
    ```bash
